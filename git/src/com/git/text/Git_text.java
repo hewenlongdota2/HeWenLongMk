@@ -6,6 +6,7 @@ public class Git_text {
 		
 		
 		System.out.println("Git∫√¿≤");
+		System.out.println("giii");
 	}
 
 }
